@@ -3,4 +3,5 @@ A project that I created for freeCodeCamp that displays local weather. For more 
 
 ## Resources
 [CodePen Version](https://codepen.io/lchap701/full/vYxqLMy)
+[spaces 1]
 [API](https://forum-proxy.freecodecamp.rocks/latest)
